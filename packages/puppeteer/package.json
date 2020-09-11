@@ -1,0 +1,17 @@
+{
+  "name": "demo-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "debug": "mocha --inspect-brk"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.2",
+    "puppeteer": "^3.0.4"
+  }
+}

@@ -1,0 +1,18 @@
+1589439912736	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h9/b4_708k92bg601sfksxh71100000gp/T/rust_mozprofiletRd4rq"
+1589439913120	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589439913345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589439913345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589439913345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589439913345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589439915075	Marionette	INFO	Listening on port 49718
+JavaScript error: https://www.baidu.com/, line 237: ReferenceError: $ is not defined
+JavaScript error: https://www.baidu.com/, line 246: ReferenceError: F is not defined
+JavaScript error: https://www.baidu.com/, line 246: ReferenceError: F is not defined
+JavaScript error: https://www.baidu.com/, line 262: ReferenceError: $ is not defined
+JavaScript error: https://www.baidu.com/, line 280: ReferenceError: $ is not defined
+JavaScript error: https://www.baidu.com/, line 237: ReferenceError: $ is not defined
+JavaScript error: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=nightwatch&rn=&fenlei=256&oq=&rsv_pq=bb9d0b740000f484&rsv_t=ac73c%2BWa%2FdMeREh1RoHVI8wnqgHy84GhSKLcWu%2FpeC0nwnIclMHCtwOnySw&rqlang=cn, line 3428: ReferenceError: $ is not defined
+JavaScript error: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=nightwatch&rn=&fenlei=256&oq=&rsv_pq=bb9d0b740000f484&rsv_t=ac73c%2BWa%2FdMeREh1RoHVI8wnqgHy84GhSKLcWu%2FpeC0nwnIclMHCtwOnySw&rqlang=cn, line 3461: ReferenceError: initPreload is not defined
+JavaScript error: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=nightwatch&rn=&fenlei=256&oq=&rsv_pq=bb9d0b740000f484&rsv_t=ac73c%2BWa%2FdMeREh1RoHVI8wnqgHy84GhSKLcWu%2FpeC0nwnIclMHCtwOnySw&rqlang=cn, line 3475: TypeError: bds.amd is undefined
+JavaScript error: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=nightwatch&rn=&fenlei=256&oq=&rsv_pq=bb9d0b740000f484&rsv_t=ac73c%2BWa%2FdMeREh1RoHVI8wnqgHy84GhSKLcWu%2FpeC0nwnIclMHCtwOnySw&rqlang=cn, line 3426: ReferenceError: $ is not defined
+1589439916058	Marionette	INFO	Stopped listening on port 49718
